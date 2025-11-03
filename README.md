@@ -27,9 +27,8 @@ Built with a modern and lightweight web stack:
 
 - **HTML5 / CSS3**
 - **JavaScript**
-- (Optional: include your framework if applicable, e.g., **React**, **Next.js**, or **Tailwind CSS**)
 
-Deployed using **[your hosting platform, e.g., GitHub Pages / Vercel / Netlify]**.
+Deployed using Github.
 
 ---
 
