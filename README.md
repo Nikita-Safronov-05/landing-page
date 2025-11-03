@@ -14,10 +14,10 @@ The goal of this site is to provide a straightforward, elegant introduction to w
 - Clean and responsive single-page design  
 - Prominent display of name and contact icons  
 - Direct access to:
-  - 💼 [LinkedIn](#)
-  - 📄 [Resume](#)
-  - 💻 [GitHub](#)
-  - ✉️ Email link  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/safronikita/)
+  - 📄 [Resume](https://drive.google.com/drive/folders/19glJ0SRvEjHpJGx0w2_BzpkQK1xolItf?usp=sharing)
+  - 💻 [GitHub](https://github.com/Nikita-Safronov-05)
+  - ✉️ [Email](https://mail.google.com/mail/?view=cm&fs=1&to=safronikita@gmail.com) 
 
 ---
 
